@@ -8,7 +8,8 @@ You can change the name of the command, for example, 'home', or anything you wan
 
 <h3> To use, copy the code and run on your IDE or on WindowsPowershell using the command <i>dotnet build</i>. Then, go to the folder -> bin -> debug -> net(6.0, 7.0,etc).
  There you'll see 5 files:
- * ??.deps
+ <br>
+ * ??.deps 
  * ??.dll
  * ??.exe
  * ??.pdb
