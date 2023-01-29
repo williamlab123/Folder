@@ -7,5 +7,5 @@ You can change the name of the command, for example, 'home', or anything you wan
 <div align="center">How to use </div>
 </h1>
 
-<h3> To use, copy the code and run on your IDE or on WindowsPowershell using the command <strong> dotnet build </strong> </h3>
+<h4> To use, copy the code and run on your IDE or on WindowsPowershell using the command <strong> dotnet build </strong> </h4>
 
