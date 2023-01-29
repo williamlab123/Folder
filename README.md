@@ -6,4 +6,4 @@ You can change the name of the command, for example, 'home', or anything you wan
 <h1><div align="center">How to use </div></h1>
 
 
-<h4> To use, copy the code and run on your IDE or on WindowsPowershell using the command <i>dotnet build</i> </h4>
+<h3> To use, copy the code and run on your IDE or on WindowsPowershell using the command <i>dotnet build</i> </h3>
