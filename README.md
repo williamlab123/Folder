@@ -23,7 +23,6 @@ You can change the name of the command, for example, 'home', or anything you wan
  If you see that, it means that is correct. Now you will copy the path of the net folder. Then, you will open the <i> environment variables </i>, by typing path on your start menu. Then search for 'Path'. Select 'Path', then click in new. In variable name, put the name of the command you want to use, the default is 'folder'. Then in 'variable value', put the path you have copied before. Click  ok. You will do that twice, for the user and for the system, then click ok and you should be capable to use the program. <i> Note: If your terminal is openned during the process, close it and open a new one. </i> </h3>
 
  <h2> This is the result: </h2>
-<img src = "https://imgur.com/a/I5lHTNA" width = "500px" height = "500px"/>
 ![image](https://user-images.githubusercontent.com/54008790/215365848-425c44ba-b62c-4fc9-9015-238681b05336.png)
 ![image](https://user-images.githubusercontent.com/54008790/215365851-5604ad35-065d-4aef-9103-c468d25c753b.png)
 
