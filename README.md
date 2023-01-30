@@ -27,9 +27,11 @@ You can change the name of the command, for example, 'home', or anything you wan
 
  <div align="center">
   --->
-![image](https://user-images.githubusercontent.com/54008790/215365848-425c44ba-b62c-4fc9-9015-238681b05336.png)
-![image](https://user-images.githubusercontent.com/54008790/215365953-34b6161c-e560-4dc6-b10f-7a011754635e.png)
-</div> 
+![image](https://user-images.githubusercontent.com/54008790/215366016-9970a499-bbae-473f-bec7-e44d1dc15b35.png)
+![image](https://user-images.githubusercontent.com/54008790/215366055-9c2830af-a54a-4dbe-ba55-e7a4282fc6c4.png)
+
+
+
 
 
 
