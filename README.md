@@ -24,7 +24,7 @@ You can change the name of the command, for example, 'home', or anything you wan
 
  <h2> This is the result: </h2>
 ![image](https://user-images.githubusercontent.com/54008790/215365848-425c44ba-b62c-4fc9-9015-238681b05336.png)
-![image](https://user-images.githubusercontent.com/54008790/215365851-5604ad35-065d-4aef-9103-c468d25c753b.png)
+
 
 
 
