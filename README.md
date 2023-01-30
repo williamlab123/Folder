@@ -24,8 +24,9 @@ You can change the name of the command, for example, 'home', or anything you wan
 
 <!---
  <h2> This is the result: </h2>
- --->
+
  <div align="center">
+  --->
 ![image](https://user-images.githubusercontent.com/54008790/215365848-425c44ba-b62c-4fc9-9015-238681b05336.png)
 ![image](https://user-images.githubusercontent.com/54008790/215365953-34b6161c-e560-4dc6-b10f-7a011754635e.png)
 </div> 
