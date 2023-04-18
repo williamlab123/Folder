@@ -24,9 +24,10 @@ You can change the name of the command, for example, 'home', or anything you wan
  <br>
  
  <h1><div align="center">How to use on Linux</div></h1>
- Copy the code and paste on your vscode, then build it using 'dotnet build'. Once builded, you need the .dll file. Grab its path, open a terminal, go to your home directory and type: nano .bashrc. Now go to the end of the file and paste: alias folder="The path for your .dll"
+ <h3>
+ Copy the code and paste on your vscode, then build it using  <i>dotnet build</i>. Once builded, you need the .dll file. Grab its path, open a terminal, go to your home directory and type: nano .bashrc. Now go to the end of the file and paste: alias folder="The path for your .dll"
  After making this steps, save and type source ~/.bashrc in the terminal. Now you can try, open a new terminal e type 'folder'.
- If this steps does not work, please contact me and i'll see why it didn't work.
+ If this steps does not work, please contact me and i'll see why it didn't work.</h3>
 
 <h2>  Result: </h2>
 <br>
