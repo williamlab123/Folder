@@ -1,8 +1,6 @@
 <h1><div align="center"> Folder </div></h1>
 <h3>
-When you type 'folder' on your terminal, it opens the corrent repository that you are working on, for example:
-C:\Desktop\programs. If you type 'folder', it will open the folder 'programs', in the Desktop, in disc C.
-You can change the name of the command, for example, 'home', or anything you want. </h3>
+When the command 'folder' is entered on the terminal, it opens the current working directory, such as C:\Desktop\programs. Subsequently, executing the 'folder' command will open the 'programs' folder located in the Desktop, under the C drive. It is also possible to customize the command name to anything preferred, like 'home'.</h3>
 
 <h1><div align="center">Windows</div></h1>
 
